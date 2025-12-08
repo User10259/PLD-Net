@@ -1,8 +1,5 @@
 # Continuous Global Power Line Localization via Local Polar-Coordinate Feature Learning
 
-PLD-Net is a deep-learning model designed for accurate and continuous power line detection in UAV imagery.
-Instead of relying on pixel-level segmentation, PLD-Net learns local polar-coordinate features inside fixed image grids and reconstructs them into global line structures.
----
 
 ## 🚀 Network Architecture
 
