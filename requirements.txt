@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+numpy
+opencv-python
+Pillow
+shapely
+albumentations
+matplotlib
+tqdm
+thop
+scipy
+scikit-image
