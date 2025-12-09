@@ -7,7 +7,7 @@
 
 PLD-Net consists of:
 - Grid-wise Polar Representation — Divides the image into grid cells and encodes local line geometry in polar coordinates.
-- ConvNeXt-mini Backbone — Enlarges the effective receptive field for structural line features.
+- ConvNeXt-E Backbone — Enlarges the effective receptive field for structural line features.
 - Feature Enhancement Modules (WGA & UND) — Strengthen thin-line responses and suppress background noise.
 - Prediction Head — Outputs classification scores and polar regression parameters for each grid cell.
 - Hungarian Matching — Provides one-to-one supervision between predictions and ground truth during training.
