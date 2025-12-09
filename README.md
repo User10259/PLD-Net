@@ -73,23 +73,11 @@ PLD-Net/
 ├── requirements.txt
 └── README.md
 ```
-To keep the repository lightweight for anonymous submission, we place the best-performing training weights in the GitHub Releases section instead of the main code directory.
-You can download the pretrained models using the following link:
-
+we place the best-performing training weights in the GitHub Releases section instead of the main code directory.
 You can download the pretrained models using the following link:
 ```bash
 https://github.com/User10259/PLD-Net/releases/tag/v1.0-weights
 ```
-You may use the following read-only access token to retrieve the files:
-```bash
-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
-```
-
-**Usage Instructions**
-- When GitHub asks for a login, use any string as the username (e.g., `reviewer`).
-- Use the token above as the password.
-- You will then gain read-only access to the repository and can download the pretrained weights from the Release page.
-
 
 ## 📦 Requirements
 
@@ -118,7 +106,7 @@ pip install -r requirements.txt
 
 ## ▶️ Test (Demo Inference)
 
-We provide pretrained weights for PLDU and TTPLA.
+We provide the best-performing training weights for PLDU and TTPLA.
 Use the following command to run inference on a single image:
 ```bash
 python demo.py --dataset pldu --img datasets/pldu/1.jpg
