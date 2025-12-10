@@ -76,7 +76,7 @@ PLD-Net/
 Note: we place the best-performing training weights in the GitHub Releases section instead of the main code directory.
 You can download the pretrained models using the following link:
 ```bash
-https://github.com/User10259/PLD-Net/releases/tag/v1.0-weights
+https://github.com/User10259/PLL-Net/releases/tag/v1.0-weights
 ```
 
 ## 📦 Requirements
