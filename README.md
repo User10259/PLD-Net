@@ -73,11 +73,15 @@ PLD-Net/
 ├── requirements.txt
 └── README.md
 ```
-we place the best-performing training weights in the GitHub Releases section instead of the main code directory.
-You can download the pretrained models using the following link:
-```bash
-https://github.com/User10259/PLD-Net/releases/tag/v1.0-weights
-```
+Note: We place the best-performing training weights in the GitHub Releases section instead of the main code directory. To maintain anonymity during the review process, 
+the weights will be made available via GitHub Releases immediately upon paper acceptance.
+[//]: # (You can download the pretrained models using the following link:)
+
+[//]: # (```bash)
+
+[//]: # (https://github.com/User10259/PLD-Net/releases/tag/v1.0-weights)
+
+[//]: # (```)
 
 ## 📦 Requirements
 
